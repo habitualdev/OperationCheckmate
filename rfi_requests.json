@@ -5,5 +5,12 @@
     "request": "Information on AA threats around Timora",
     "status": "answered",
     "answer": "Manpad threats seen in vicinity of Timora Pass proper"
+  },
+  {
+    "id": "1761316927755",
+    "timestamp": "2025-10-24T14:42:07.755Z",
+    "request": "Do we have any details on HVI's in Dilshad?",
+    "status": "pending",
+    "answer": null
   }
 ]
