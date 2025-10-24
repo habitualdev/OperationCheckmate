@@ -1,0 +1,1 @@
+Logistical movements through the pass remain consistent with previous dawn/dusk cycle. Does loosely align with morning/evening prayers. No significant built up checkpoints seen, other than the defenses around the gas pump.
